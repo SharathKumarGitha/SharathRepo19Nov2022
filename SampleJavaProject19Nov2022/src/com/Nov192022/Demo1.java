@@ -8,6 +8,9 @@ public class Demo1 {
 		System.out.println("this is first line");
 		System.out.println("this is second line ");
 		System.out.println("this is third line");
+		System.out.println("line1 added");
+		System.out.println("line2 added");
+		System.out.println("line3 added");
 		System.out.println("this is fourth line");
 		System.out.println("this is fifth line1");
 		System.out.println("this is sixth line2");
